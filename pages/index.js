@@ -61,59 +61,211 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.4alabs.io/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Docs <span>-&gt;</span>
+              4A Labs <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Find in-depth information about Next.js features and&nbsp;API.
+              Web Technologies.
             </p>
           </a>
 
           <a
-            href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://dentumitkoy.com/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Learn <span>-&gt;</span>
+              Dent Ümitköy <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Learn about Next.js in an interactive course with&nbsp;quizzes!
+              Gülüş Estetiği - Gülüş Estetiği Ankara
             </p>
           </a>
 
           <a
-            href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.drderm.com.tr/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Templates <span>-&gt;</span>
+              Dr Derm <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
+              Lazer Epilasyon
             </p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.enisguray.com.tr/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Deploy <span>-&gt;</span>
+              Enis Güray <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Instantly deploy your Next.js site to a shareable URL
-              with&nbsp;Vercel.
+              Ankara Ortodontist.
+            </p>
+          </a>
+           <a
+            href="https://www.ercebelecoglu.com.tr/"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className={inter.className}>
+              Erce Beleçoğlu <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Ankara Gülüş Tasarımı - Gülüş Tasarımı.
+            </p>
+          </a>
+            <a
+            href="https://estezone.com.tr/"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+            tag="Lazer Epilasyon ve Zayıflama Cihazı"
+          >
+            <h2 className={inter.className}>
+              Estezone <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Lazer Epilasyon ve Zayıflama Cihazı.
+            </p>
+          </a>
+            <a
+            href="https://www.esemosgb.com.tr/"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+            tag="İş Sağlığı ve Güvenliği"
+          >
+            <h2 className={inter.className}>
+              ESEM OSGB <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              İş Sağlığı ve Güvenliği.
+            </p>
+          </a>
+            <a
+            href="https://fabo.com.tr/"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+            tag="Konkasör"
+          >
+            <h2 className={inter.className}>
+              FABO <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Konkasör.
+            </p>
+          </a>
+             <a
+            href="https://www.globmac.com/"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+            tag="Briket Makinesi"
+          >
+            <h2 className={inter.className}>
+              GLOBMAC <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Briket Makinesi.
+            </p>
+          </a>
+            <a
+            href="https://www.gurbuziskele.com.tr/"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+            tag="İskele Kalıp Sistemleri"
+          >
+            <h2 className={inter.className}>
+              Gürbüz İskele ve Kalıp Sistemleri <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              İskele Kalıp Sistemleri.
+            </p>
+          </a>
+             <a
+            href="https://www.magcanta.com/"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+            tag="Bez Çanta"
+          >
+            <h2 className={inter.className}>
+              MAG Çanta <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Bez Çanta.
+            </p>
+          </a>
+            <a
+            href="https://ntsmedicare.com/"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+            tag="Evde Hasta ve Yaşlı Bakım"
+          >
+            <h2 className={inter.className}>
+              NTS Medicare <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Evde Hasta ve Yaşlı Bakım.
+            </p>
+          </a>
+             <a
+            href="https://meleknagehansanic.com/"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+            tag="Ankara Dermatolog"
+          >
+            <h2 className={inter.className}>
+              Melek Nagehan Saniç <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Ankara Dermatolog.
+            </p>
+          </a>
+            <a
+            href="https://www.teknoteksogutma.com/"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+            tag="Endüstriyel Soğutma ve Nemlendirme Sistemleri"
+          >
+            <h2 className={inter.className}>
+              Teknotek <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Endüstriyel Soğutma ve Nemlendirme Sistemleri.
+            </p>
+          </a>
+            <a
+            href="https://uzmanseswidex.com/"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+            tag="Ankara İşitme Cihazı"
+          >
+            <h2 className={inter.className}>
+              Uzman Ses <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Ankara İşitme Cihazı.
             </p>
           </a>
         </div>
