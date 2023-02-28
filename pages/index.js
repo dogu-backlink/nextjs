@@ -65,6 +65,7 @@ export default function Home() {
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
+            tag="Web Technologies"
           >
             <h2 className={inter.className}>
               4A Labs <span>-&gt;</span>
@@ -79,6 +80,7 @@ export default function Home() {
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
+            tag="Gülüş Estetiği, Gülüş Estetiği Ankara"
           >
             <h2 className={inter.className}>
               Dent Ümitköy <span>-&gt;</span>
@@ -93,6 +95,7 @@ export default function Home() {
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
+            tag="lazer epilasyon"
           >
             <h2 className={inter.className}>
               Dr Derm <span>-&gt;</span>
@@ -107,6 +110,7 @@ export default function Home() {
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
+            tag="ankara ortodontist"
           >
             <h2 className={inter.className}>
               Enis Güray <span>-&gt;</span>
@@ -120,6 +124,7 @@ export default function Home() {
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
+            tag="Ankara Gülüş Tasarımı,Gülüş Tasarımı"
           >
             <h2 className={inter.className}>
               Erce Beleçoğlu <span>-&gt;</span>
