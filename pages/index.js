@@ -175,20 +175,6 @@ export default function Home() {
               Konkasör.
             </p>
           </a>
-             <a
-            href="https://www.globmac.com/"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-            tag="Briket Makinesi"
-          >
-            <h2 className={inter.className}>
-              GLOBMAC <span>-&gt;</span>
-            </h2>
-            <p className={inter.className}>
-              Briket Makinesi.
-            </p>
-          </a>
             <a
             href="https://www.gurbuziskele.com.tr/"
             className={styles.card}
