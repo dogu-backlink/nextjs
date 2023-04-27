@@ -267,7 +267,7 @@ export default function Home() {
             tag="Ankara Elektrik Elektronik"
           >
             <h2 className={inter.className}>
-              Uzman Ses <span>-&gt;</span>
+              Ankara Elektrik Elektronik <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Ankara Elektrik Elektronik.
@@ -281,7 +281,7 @@ export default function Home() {
             tag="Evde Fizik Tedavi"
           >
             <h2 className={inter.className}>
-              Uzman Ses <span>-&gt;</span>
+              Evde Fizik Tedavi <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Evde Fizik Tedavi.
@@ -295,7 +295,7 @@ export default function Home() {
             tag="Google Backlink"
           >
             <h2 className={inter.className}>
-              Uzman Ses <span>-&gt;</span>
+              Google <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Google Backlink.
@@ -309,7 +309,7 @@ export default function Home() {
             tag="Backlink to Backlink"
           >
             <h2 className={inter.className}>
-              Uzman Ses <span>-&gt;</span>
+              Backlink <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Backlink to Backlink.
@@ -323,7 +323,7 @@ export default function Home() {
             tag="Product Hunt"
           >
             <h2 className={inter.className}>
-              Uzman Ses <span>-&gt;</span>
+              Product Hunt <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Product Hunt.
@@ -337,7 +337,7 @@ export default function Home() {
             tag="Yandex Backlink"
           >
             <h2 className={inter.className}>
-              Uzman Ses <span>-&gt;</span>
+              Yandex Backlink <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Yandex Backlink.
@@ -351,7 +351,7 @@ export default function Home() {
             tag="Yandex Backlink"
           >
             <h2 className={inter.className}>
-              Uzman Ses <span>-&gt;</span>
+              Yandex Backlink <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Yandex Backlink.
@@ -365,7 +365,7 @@ export default function Home() {
             tag="Yandex Backlink"
           >
             <h2 className={inter.className}>
-              Uzman Ses <span>-&gt;</span>
+              Yandex Backlink <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Yandex Backlink.
@@ -379,7 +379,7 @@ export default function Home() {
             tag="Telegraph"
           >
             <h2 className={inter.className}>
-              Uzman Ses <span>-&gt;</span>
+              Telegraph <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Telegraph.
