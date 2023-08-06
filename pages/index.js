@@ -251,13 +251,13 @@ export default function Home() {
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
-            tag="Ankara Elektrik Elektronik"
+            tag="Soft Starter"
           >
             <h2 className={inter.className}>
-              Ankara Elektrik Elektronik <span>-&gt;</span>
+              Soft Starter <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Ankara Elektrik Elektronik.
+              Soft Starter.
             </p>
           </a>
             <a
