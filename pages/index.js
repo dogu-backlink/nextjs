@@ -75,20 +75,7 @@ export default function Home() {
             </p>
           </a>
 
-          <a
-            href="https://dentumitkoy.com/"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-            tag="Gülüş Estetiği, Gülüş Estetiği Ankara"
-          >
-            <h2 className={inter.className}>
-              Dent Ümitköy <span>-&gt;</span>
-            </h2>
-            <p className={inter.className}>
-              Gülüş Estetiği - Gülüş Estetiği Ankara
-            </p>
-          </a>
+      
 
           <a
             href="https://www.drderm.com.tr/"
